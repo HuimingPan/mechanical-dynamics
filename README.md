@@ -12,7 +12,7 @@
 
 将其上传到Github供大家学习使用。其中有很多不足和纰漏，欢迎大家一起贡献。邮箱 panhuiming@aliyun.com 。
 
-## 2.Illustration
+## 2.Description
 程序主要是定义了一些函数，用于解决某一方法或问题，具体说明在函数内。
 
 ## 3.Deficiency
