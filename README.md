@@ -3,8 +3,9 @@
 《机械动力学》有关方法和题目的程序
 
 ## Requirement
-- `Python 3+`
+- `Python 3`
 - `numpy`
+- `matplotlib`
 
 ## 1.Overview
 使用的教材是石端伟教授编写的《机械动力学 修订版》，在教材中的程序几乎都使由Matlab编写的，随着哈工大等高校被禁用Matlab之后，我总觉得Matlab这个工具不可靠。所以在复习《机械动力学》考试的时候，用Python实现了教材上的一些程序。
