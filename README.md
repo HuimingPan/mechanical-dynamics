@@ -8,7 +8,9 @@
 程序已经上传到Github，有需要的小伙伴可以去Github上下载程序。也欢迎大家在Github上进行改进或者在下方评论。
 
 Github链接：https://github.com/HuimingPan/mechanical-dynamics
+
 CSDN链接：https://blog.csdn.net/weixin_46191033/article/details/113738519
+
 知乎链接：https://zhuanlan.zhihu.com/p/349813253
 ## 2.Illustration
 程序主要是定义了一些函数，用于解决某一方法（像传递矩阵法、矩阵迭代法、纽马克-β法等）或问题，具体说明在函数内。
