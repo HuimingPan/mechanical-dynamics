@@ -5,7 +5,7 @@
 ## 1.Overview
 使用的教材是石端伟教授编写的《机械动力学 修订版》，在教材中的程序几乎都使由Matlab编写的，随着哈工大等高校被禁用Matlab之后，我总觉得Matlab这个工具不可靠。所以在复习《机械动力学》考试的时候，用Python实现了教材上的一些程序。
 
-程序已经上传到Github，有需要的小伙伴可以去Github上下载程序。也欢迎大家在Github上进行改进或者在下方评论。
+程序已经上传Github，有需要的小伙伴可以去下载程序。也欢迎大家在知乎或者CSDN下评论。
 
 Github链接：https://github.com/HuimingPan/mechanical-dynamics
 
